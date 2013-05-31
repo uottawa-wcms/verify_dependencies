@@ -1,0 +1,5 @@
+name = Verify Dependencies
+description = "Provides a drush command to verify dependencies of
+installed modules and enable modules as required."
+package = Drush
+core = 7.x
